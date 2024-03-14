@@ -3,6 +3,6 @@
  - Ph.D. in Engineering 
  - M.Eng. Mechanical Engineering
  - B.Eng. Mechanical Engineering
-# Experince 
+# Experience 
 # Design Engineer
 
